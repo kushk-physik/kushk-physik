@@ -27,7 +27,7 @@ My research sits at the intersection of **relativistic kinetic theory**, **magne
 
 [![INSPIRE](https://img.shields.io/badge/INSPIRE-HEP-red?style=flat-square)](https://inspirehep.net/authors/2779952)
 [![arXiv](https://img.shields.io/badge/arXiv-papers-b31b1b?style=flat-square)](https://arxiv.org/search/?query=khwahish+kushwah&searchtype=all&source=header)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-pHg-ssAAAAJ&hl=en)
 
 ---
 
