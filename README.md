@@ -1,5 +1,9 @@
 # Khwahish Kushwah
 
+🌐 **[Visit my website → kushk-physik.github.io](https://kushk-physik.github.io)**
+
+---
+
 **Theoretical Physicist** finishing my PhD at [Universidade Federal Fluminense (UFF)](https://www.uff.br), Brazil.
 
 My research sits at the intersection of **relativistic kinetic theory**, **magnetohydrodynamics (MHD)**, and **high-energy nuclear physics** — building rigorous mathematical frameworks to describe how matter behaves under extreme conditions: near the speed of light, in intense magnetic fields, and at temperatures found in heavy-ion collisions and neutron star environments.
